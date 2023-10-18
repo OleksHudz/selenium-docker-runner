@@ -24,3 +24,4 @@ pipeline {
             archiveArtifacts artifacts: 'output/vendor-portal/emailable-report.html', followSymlinks: false
         }
     }
+}
